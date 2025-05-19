@@ -26,11 +26,10 @@ To get the most out of these settings, please install the following extensions:
 
 1. Clone or download this repository.
 2. Open **VS Code** or **Cursor**.
-3. Go to `File` → `Preferences` → `Settings` (or press `Ctrl+,`).
-4. Click the top-right `{}` icon to open **settings.json** in raw JSON mode.
+3. Press cmnd + P.
+4. Enter **> User Settings**.
 5. Replace the contents with the `user-settings.json` from this repo.
 6. Install the recommended extensions (see above).
-7. Restart the editor to apply all changes.
 
 ## 📝 Notes
 

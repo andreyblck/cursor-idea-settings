@@ -26,8 +26,8 @@ To get the most out of these settings, please install the following extensions:
 
 1. Clone or download this repository.
 2. Open **VS Code** or **Cursor**.
-3. Press cmnd + P.
-4. Enter **> User Settings**.
+3. Press ` CMND + P `.
+4. Enter ` > User Settings `.
 5. Replace the contents with the `user-settings.json` from this repo.
 6. Install the recommended extensions (see above).
 
